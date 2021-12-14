@@ -11,7 +11,7 @@ public class Book implements Priceable
         this.name = name;
         this.author = author;
     }
-    public String getName(
+    public String getName()
             {
         return name;
     }
